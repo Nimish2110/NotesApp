@@ -16,8 +16,6 @@ A simple and elegant Notes app built using **Kotlin**, **MVVM Architecture**, an
 
 ## 📸 Screenshots
 
-> *(Add these in your repo later)*
-
 | Home Screen |
 <img width="382" height="810" alt="Screenshot 2025-07-30 193341" src="https://github.com/user-attachments/assets/71c06478-b87e-4801-aed4-ccd8f993f76c" />
 

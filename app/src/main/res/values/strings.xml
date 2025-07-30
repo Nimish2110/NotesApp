@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">NotesApp</string>
+
+    <!-- EditText hints -->
+    <string name="hint_title">Enter title</string>
+    <string name="hint_note">Enter your note</string>
+
+    <!-- FAB description -->
+    <string name="add_note">Add Note</string>
+
+    <!-- Dummy/default note preview text -->
+    <string name="default_title">Note Title</string>
+    <string name="default_content">Note content preview goes here…</string>
+
+    <!-- Delete button description -->
+    <string name="delete_note">Delete</string>
+
+    <!-- Toast messages -->
+    <string name="note_deleted">Note deleted</string>
+</resources>
